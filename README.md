@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JulianSchubel
-- 👀 I’m interested in ... Numeric/Scientific, low-level and high performance computing 
+- 👀 I’m interested in ... Numeric/Scientific, low-level (as close to the machine as I can get) and high performance computing 
 - 🌱 I’m currently learning ... c, c++, rust, x86 Assembly
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

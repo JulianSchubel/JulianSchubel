@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @JulianSchubel
-- 👀 I’m interested in ... Numeric/Scientific, low-level and high performance computing 
-- 🌱 I’m currently learning ... c, rust, x86 assembly
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-JulianSchubel/JulianSchubel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Working in the data engineering space primarily focused on ETL workflows and delivering data to data lakes. Primary interests are Numeric/Scientific, low-level and high performance computing.

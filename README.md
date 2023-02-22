@@ -1,1 +1,1 @@
-Data engineer, mathematics enthusiast, C appreciator and budding Rustacean.
+Mathematics enthusiast, C appreciator and budding Rustacean.
